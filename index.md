@@ -26,7 +26,7 @@ int main() {
 ```
 
 ## Picture
-![MeandMyfriend] (images/MeandFriend.jpg)
+![MeandMyfriend](images/MeandFriend.jpg)
 
 ## Link(External, Section, Relative)
 - [Github_profile](https://github.com/TopgeonKR)
